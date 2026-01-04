@@ -121,7 +121,7 @@ filter URLs with params
    ↓
 XSSion
    ↓
-dalfox / manual verification
+If Reflected = manual verification
 ```
 
 
