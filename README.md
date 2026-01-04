@@ -1,5 +1,5 @@
 
-# 🗡️ XSSion - Fastest XSS Reflection Finder
+# 🗡️ XSSion - Fastest Reflected XSS Finder
 ![GitHub stars](https://img.shields.io/github/stars/alhamrizvi-cloud/XSSion?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge)
 ![License](https://img.shields.io/github/license/alhamrizvi-cloud/XSSion?style=for-the-badge)
