@@ -57,6 +57,8 @@ Now you can run:
 
 ```bash
 xssion <URL> <payloads.txt>
+or
+xssion <URL> xss_all_payloads.txt
 ```
 
 ## 🚀 Usage
@@ -64,7 +66,7 @@ xssion <URL> <payloads.txt>
 ### Basic
 
 ```bash
-python3 xssion.py "<URL>?param=" payloads.txt
+python3 xssion.py "<URL>?param=" xss_all_payloads.txt
 ```
 
 Example:
