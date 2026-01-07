@@ -56,7 +56,7 @@ To run `xssion` from anywhere:
 Now you can run:
 
 ```bash
-xssion <URL> <payloads.txt>
+xssion <URL> <xss_all_payloads.txt>
 or
 xssion <URL> xss_all_payloads.txt
 ```
