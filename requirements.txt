@@ -1,3 +1,4 @@
 requests
 termcolor
 urllib3
+figlet
